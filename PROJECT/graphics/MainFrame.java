@@ -11,8 +11,6 @@ import javax.swing.JFrame;
 
 /**
  * MainFrame extends frame. Main window of the game.
- * 
- * @author erika712, armeh223
  *
  */
 public class MainFrame extends JFrame {
