@@ -12,8 +12,6 @@ import javax.swing.JPanel;
 
 /**
  * Startscreen, renders a background for the startscreen.
- * 
- * @author erika712, armeh223
  *
  */
 public class StartScreen extends JPanel implements Runnable, Serializable {
